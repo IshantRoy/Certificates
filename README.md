@@ -1,35 +1,52 @@
-# 📜 Certificates — Ishant Roy
+<h1 align="center">📜 Certificates — Ishant Roy</h1>
 
-This repository contains my verified certificates from AI/ML programs, programming courses, and hackathons.
-
-> Each item links directly to the PDF in this repo. File names follow **Provider_Title_Year.pdf** for clarity.
+<p align="center">
+  <b>Verified certifications in Artificial Intelligence, Machine Learning, Programming, and Hackathons</b>  
+  <br>
+  <a href="https://www.linkedin.com/in/ishant-roy-31897b257">
+    <img src="https://img.shields.io/badge/LinkedIn-Ishant%20Roy-blue?logo=linkedin" />
+  </a>
+  <a href="https://github.com/IshantRoy">
+    <img src="https://img.shields.io/badge/GitHub-IshantRoy-black?logo=github" />
+  </a>
+</p>
 
 ---
 
 ## 🎓 AI / Machine Learning
-- [IBM Developer Skills Network — Python for Data Science (2025)](AI-ML/IBM_Python_for_Data_Science_2025.pdf)
-- [Infosys Springboard — Data Visualization using Python (2025)](AI-ML/Infosys_Data_Visualization_Using_Python_2025.pdf)
+📌 Specialized in **AI Engineering, Deep Learning, NLP, and Data Science**  
+
+- 🏅 [Samsung R&D — AI Training Program (2025)](AI-ML/Samsung_RnD_AI_Training_Program_2025.pdf)  
+- 📊 [IBM Developer Skills Network — Python for Data Science (2025)](AI-ML/IBM_Python_for_Data_Science_2025.pdf)  
+- 📈 [Infosys Springboard — Data Visualization using Python (2025)](AI-ML/Infosys_Data_Visualization_Using_Python_2025.pdf)  
 
 ---
 
 ## 💻 Programming
-- [CodeChef — Java (2023)](Programming/CodeChef_Java_2023.pdf)
-- [CodeChef — DSA using Java (2023)](Programming/CodeChef_DSA_Using_Java_2023.pdf)
-- [Infosys Springboard — Python Django (2025)](Programming/Infosys_Python_Django_2025.pdf)
+📌 Strong foundation in **Java, Data Structures, Python, and Full-Stack Development**  
+
+- ☕ [CodeChef — Java (2022)](Programming/CodeChef_Java_2022.pdf)  
+- 📘 [CodeChef — DSA using Java (2022)](Programming/CodeChef_DSA_Using_Java_2022.pdf)  
+- 🌐 [Infosys Springboard — Python Django (2025)](Programming/Infosys_Python_Django_2025.pdf)  
 
 ---
 
 ## 🏆 Hackathons
-- [Tech Tank 2025 — Advanced to Round 2](Hackathons/RVCE_Tech_Tank_2025.pdf)
-- [The Great Bengaluru Hackathon — Mar 15–16, 2025](Hackathons/Great_Bengaluru_Hackathon_2025.pdf)
+📌 Recognized for **teamwork, problem-solving, and innovation** in national-level hackathons  
+
+- ⚡ [Tech Tank 2025 — Advanced to Round 2](Hackathons/Tech_Tank_2025.pdf)  
+- 🚀 [The Great Bengaluru Hackathon — Mar 15–16, 2025](Hackathons/Great_Bengaluru_Hackathon_2025.pdf)  
 
 ---
 
-## 🔗 Profiles
-- **LinkedIn:** [ishant-roy-31897b257](https://www.linkedin.com/in/ishant-roy-31897b257)  
-- **GitHub:** [IshantRoy](https://github.com/IshantRoy)
+## 📂 How this repo works
+- All certificates are organized into categories: `AI-ML`, `Programming`, `Hackathons`, and `Others`.  
+- Each link above opens the actual **certificate PDF** stored in this repository.  
+- Updated regularly as I complete new programs and certifications.  
 
 ---
 
-⭐ This repository serves as a single source of truth for my professional certifications.  
-📅 Last updated: August 2025
+<p align="center">
+  ⭐ This repository serves as a single source of truth for my professional certifications. <br>
+  📅 <i>Last updated: August 2025</i>
+</p>
