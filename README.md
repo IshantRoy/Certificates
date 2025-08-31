@@ -16,7 +16,6 @@
 ## 🎓 AI / Machine Learning
 📌 Specialized in **AI Engineering, Deep Learning, NLP, and Data Science**  
 
-- 🏅 [Samsung R&D — AI Training Program (2025)](AI-ML/Samsung_RnD_AI_Training_Program_2025.pdf)  
 - 📊 [IBM Developer Skills Network — Python for Data Science (2025)](AI-ML/IBM_Python_for_Data_Science_2025.pdf)  
 - 📈 [Infosys Springboard — Data Visualization using Python (2025)](AI-ML/Infosys_Data_Visualization_Using_Python_2025.pdf)  
 
