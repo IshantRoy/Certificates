@@ -13,8 +13,8 @@ This repository contains my verified certificates from AI/ML programs, programmi
 ---
 
 ## 💻 Programming
-- [CodeChef — Java (2022)](Programming/CodeChef_Java_2022.pdf)
-- [CodeChef — DSA using Java (2022)](Programming/CodeChef_DSA_Using_Java_2022.pdf)
+- [CodeChef — Java (2022)](Programming/CodeChef_Java_2023.pdf)
+- [CodeChef — DSA using Java (2022)](Programming/CodeChef_DSA_Using_Java_2023.pdf)
 - [Infosys Springboard — Python Django (2025)](Programming/Infosys_Python_Django_2025.pdf)
 
 ---
